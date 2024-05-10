@@ -1,0 +1,7 @@
+-U langchain langgraph langchainhub langchain_experimental
+python-dotenv
+--upgrade langchain-google-genai
+-U langchain-cli
+-U langchain-ai21
+-U faiss-cpu
+beautifulsoup4
